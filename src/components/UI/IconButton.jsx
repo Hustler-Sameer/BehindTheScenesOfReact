@@ -11,3 +11,7 @@ export default function IconButton({ children, icon, ...props }) {
     </button>
   );
 }
+
+
+// we are taking children so that we can name the button or do soemthing else also we are saving props here with help of buttons
+
